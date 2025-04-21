@@ -1,1 +1,1 @@
-An app is created without scripting, leveraging Unity's built-in functionalities and ARFoundation components. It enable users to tap on their device's screen to place 3D objects in the real world using AR.
+In this project a image of Hawa Mahal is added through which a its information website can be accessed for information.
